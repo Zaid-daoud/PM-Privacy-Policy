@@ -1,0 +1,24 @@
+Privacy Policy for Prime Ministry
+
+Last updated: [Date]
+
+1. Information Collected
+Prime Ministry does not collect any personal information or data from users. The app is designed for internal office management purposes, and all data entered or processed within the app is strictly related to the internal functions of the Prime Ministry.
+
+2. Data Usage
+Any data entered into Prime Ministry is used solely for the purpose of internal office management. This includes, but is not limited to, employee schedules, tasks, and other relevant information necessary for the efficient operation of the Prime Ministry.
+
+3. Data Storage
+All data entered into Prime Ministry is stored securely within the Prime Ministry's internal servers or cloud infrastructure. We take measures to ensure the confidentiality and integrity of the data.
+
+4. Data Sharing
+Prime Ministry does not share any data with external third parties. All information entered into the app remains within the organizational boundaries of the Prime Ministry and is accessible only to authorized personnel.
+
+5. Security
+We employ industry-standard security measures to protect the data stored within Prime Ministry. This includes encryption, access controls, and regular security audits to ensure the safety of the information.
+
+6. Changes to this Privacy Policy
+We reserve the right to update or change this privacy policy at any time. Any changes will be effective immediately upon posting the updated privacy policy on the Prime Ministry website or within the app.
+
+7. Contact Us
+If you have any questions or concerns about this privacy policy, please contact us at pm.app@pm.gov.jo.
